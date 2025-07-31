@@ -1,0 +1,5 @@
+python-telegram-bot==20.4
+selenium==4.15.2
+webdriver-manager==3.8.6
+requests==2.31.0
+beautifulsoup4==4.12.2
